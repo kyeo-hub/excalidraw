@@ -115,6 +115,8 @@ export const FONT_FAMILY = {
   Helvetica: 2,
   Cascadia: 3,
   Assistant: 4,
+  Sanji: 5,
+  Autopen: 6,
 };
 
 export const THEME = {

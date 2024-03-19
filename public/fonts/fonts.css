@@ -36,3 +36,14 @@
   font-display: swap;
   font-weight: 700;
 }
+
+@font-face {
+  font-family: "Sanji";
+  src: url("Sanji.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Autopen";
+  src: url("Autopen.ttf");
+  font-display: swap;
+}

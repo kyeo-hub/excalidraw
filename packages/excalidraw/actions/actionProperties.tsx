@@ -772,6 +772,18 @@ export const actionChangeFontFamily = register({
         icon: FontFamilyCodeIcon,
         testId: "font-family-code",
       },
+      {
+        value: FONT_FAMILY.Sanji,
+        text: t("labels.handDrawn"),
+        icon: FreedrawIcon,
+        testId: "font-family-sanji",
+      },
+      {
+        value: FONT_FAMILY.Autopen,
+        text: t("labels.handDrawn"),
+        icon: FreedrawIcon,
+        testId: "font-family-autopen",
+      },
     ];
 
     return (
